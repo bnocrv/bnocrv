@@ -16,5 +16,5 @@ This is where I bring ideas to life — turning creativity and imagination into 
 
 <div>
   <a href="https://www.linkedin.com/in/bnocrv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:bnocrv@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:bnocrv@proton.me"><img src="https://img.shields.io/badge/-Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
