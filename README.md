@@ -1,8 +1,6 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&width=600&lines=Hi%2C+I'm+Bruno+Carvalho.;Still+learning.+Always+building.+Forever+inquisitive.;Code+is+how+I+explore+ideas+and+bring+them+to+life.&repeat=false)
 
-I'm Bruno Carvalho, a developer driven by a deep passion for technology.
-<br>
-This is where I bring ideas to life — turning creativity and imagination into lines of code.
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
