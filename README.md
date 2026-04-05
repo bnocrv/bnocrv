@@ -1,5 +1,3 @@
-<h1 align="center">Bruno Carvalho</h1>
-
 <p align="center">
   full stack developer • php + javascript • systems mindset
 </p>
